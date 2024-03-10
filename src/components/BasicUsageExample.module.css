@@ -1,0 +1,6 @@
+.pagination {
+    align-items: flex-end !important;/* Ensure proper layout */
+    justify-content: right !important; /* Align items to the left *//* Center vertically within the footer */
+    padding: 0.5rem; /* Add some padding for visual separation */
+  }
+  

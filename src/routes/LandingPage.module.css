@@ -1,0 +1,6 @@
+.landing-content {
+    display: flex; /* Enable flexbox layout */
+    width: 100%; /* Take up full width */
+    align-items: center/* Add some padding */
+  }
+  
